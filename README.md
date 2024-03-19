@@ -21,3 +21,4 @@ Additionally, the menu provides the following options:
 4. **Delete entries**: Select entries to delete from the session database.
 5. **Change master password**: Input a new master password. Save the database for this change to take effect in `pwdrecall.vault`.
 
+![Example](example.png)
