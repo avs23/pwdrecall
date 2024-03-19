@@ -2,9 +2,9 @@
 PwdRecall is a simple linux tool for enhancing memory retention of sensitive data. Secrets are stored as argon2d hashes and the whole database is encrypted with AES-256.
 
 ## Installation and execution
-1. **Download the Script**: Obtain the `pwdrecall.py` script and save it to your desired local directory.
-2. **Grant Execution Permissions**: Navigate to the directory containing the script in your terminal, then execute the command `chmod +x pwdrecall.py`.
-3. **Run the Script**: Execute the scipt by typing `./pwdrecall.py`.
+1. **Download the script**: Obtain the `pwdrecall.py` script and save it to your desired local directory.
+2. **Grant execution permissions**: Navigate to the directory containing the script in your terminal, then execute the command `chmod +x pwdrecall.py`.
+3. **Run the script**: Execute the scipt by typing `./pwdrecall.py`.
 
 ## Usage
 
