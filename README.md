@@ -5,6 +5,7 @@ PwdRecall is a simple linux tool for enhancing memory retention of sensitive dat
 1. **Download the script**: Obtain the `pwdrecall.py` script and save it to your desired local directory.
 2. **Grant execution permissions**: Navigate to the directory containing the script in your terminal, then execute the command `chmod +x pwdrecall.py`.
 3. **Run the script**: Execute the scipt by typing `./pwdrecall.py`.
+You might need to install necessary python packages with `pip`: `pip install simple_term_menu base64 getpass passlib pycryptodome`.
 
 ## Usage
 
